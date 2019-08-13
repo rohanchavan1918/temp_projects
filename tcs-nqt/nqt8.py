@@ -4,7 +4,7 @@
 TCSNQT NINJA CODING
 Write a program to print the final position of a person based on the following:
 The person starts from origin and then,
-he first turns right and tracels 10 units of distance
+he first turns right and travels 10 units of distance
 his second turn is Upward for 20 units
 his third turn is to the left for 30 units
 fourth turn is Downward for 40 units
