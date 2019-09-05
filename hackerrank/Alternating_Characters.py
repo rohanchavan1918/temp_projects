@@ -64,6 +64,3 @@ if __name__ == '__main__':
         fptr.write(str(result) + '\n')
 
     fptr.close()
-
-
-#today i wrote this code successfully with my own logic
